@@ -1,7 +1,7 @@
 # note-taker
 
 # Description
-i was asked to create a note taker where a user can enter a title and description.
+I was asked to create a note taker where a user can enter a title and description.
 
 # Screenshot
 ![note](https://github.com/user-attachments/assets/79039729-69d5-4555-ada6-b95bbce0d017)
